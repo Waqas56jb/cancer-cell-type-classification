@@ -1,9 +1,10 @@
 # Required libraries for the project
-numpy 
+numpy
 pandas
 scikit-learn
 tensorflow
 matplotlib
 seaborn
 scipy
-pillow 
+pillow
+joblib
